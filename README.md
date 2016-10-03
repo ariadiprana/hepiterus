@@ -1,4 +1,4 @@
-# ProjectPhase2
+# hepiterus
 
 ##How to Run
 1. Run this script in ssh 
